@@ -1,6 +1,5 @@
 import org.junit.Test
 import org.junit.Assert.*
-import java.lang.ProcessBuilder.Redirect
 
 class DefaultTest:
   import com.somainer.defaults.Default.default
